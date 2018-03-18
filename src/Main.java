@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-
+          Sprzeglo sp0 = = new Sprzeglo("sprzeglo1" , 4.4 , 7.8 , true);
         Sprzeglo sp1 = new Sprzeglo("sprzeglo1" , 4.4 , 7.8 , true);
         Sprzeglo sp2 = new Sprzeglo("sprzeglo2" , 6.4 , 7.8 , true);
         Sprzeglo sp3 = new Sprzeglo("sprzeglo3" , 7.4 , 7.8 , false);
